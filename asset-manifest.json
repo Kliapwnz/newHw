@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/newHw/static/css/main.073c9b0a.css",
+    "main.js": "/newHw/static/js/main.e5c020ed.js",
+    "static/js/787.177e23c2.chunk.js": "/newHw/static/js/787.177e23c2.chunk.js",
+    "index.html": "/newHw/index.html",
+    "main.073c9b0a.css.map": "/newHw/static/css/main.073c9b0a.css.map",
+    "main.e5c020ed.js.map": "/newHw/static/js/main.e5c020ed.js.map",
+    "787.177e23c2.chunk.js.map": "/newHw/static/js/787.177e23c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e5c020ed.js"
+  ]
+}
